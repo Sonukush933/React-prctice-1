@@ -1,4 +1,4 @@
-# My Coding Practice Projects
+# My React.js Practice Projects
 
 ## 1. My-First-App Project
 - **Folder Structure:** Explain the structure of the project folder.
